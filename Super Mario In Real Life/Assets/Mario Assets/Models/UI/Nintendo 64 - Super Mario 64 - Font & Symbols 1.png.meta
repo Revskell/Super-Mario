@@ -343,13 +343,13 @@ TextureImporter:
     second: ''''
   - first:
       213: -3553230579738875589
-    second: Nintendo 64 - Super Mario 64 - Font & Symbols 1_113
+    second: arrow left
   - first:
       213: 8142363837619229320
     second: '-'
   - first:
       213: -4735776864393429582
-    second: Nintendo 64 - Super Mario 64 - Font & Symbols 1_115
+    second: arrow right
   - first:
       213: 7770496432356173705
     second: Nintendo 64 - Super Mario 64 - Font & Symbols 1_116
@@ -3327,6 +3327,48 @@ TextureImporter:
       bones: []
       spriteID: 6d415612d8ce4c610800000000000000
       internalID: 1640696255164519638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow left
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 92
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39eb911d9360bec0800000000000000
+      internalID: -3553230579738875589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow right
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 92
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdf0567804274eb0800000000000000
+      internalID: -4735776864393429582
       vertices: []
       indices: 
       edges: []
