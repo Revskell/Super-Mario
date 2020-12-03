@@ -179,7 +179,6 @@ public class Player : MonoBehaviour
             PauseScreen.SetActive(true);
             Cursors[1].SetActive(false);
             HealthInterface.enabled = true;
-            Debug.Log("Paused");
         }
         else
         {
@@ -187,7 +186,6 @@ public class Player : MonoBehaviour
             // reactivar
             PauseScreen.SetActive(false);
             HealthInterface.enabled = false;
-            Debug.Log("Unpaused");
         }
     }
 
